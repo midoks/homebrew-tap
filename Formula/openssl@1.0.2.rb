@@ -1,5 +1,5 @@
 # Extraced from pre- https://github.com/Homebrew/homebrew-core/pull/46876
-class OpensslAT10 < Formula
+class OpensslAT102 < Formula
   desc "SSL/TLS cryptography library"
   homepage "https://openssl.org/"
   url "https://www.openssl.org/source/openssl-1.0.2u.tar.gz"
